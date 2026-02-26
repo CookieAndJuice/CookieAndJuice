@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/cradia3512)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cradia3512)](https://solved.ac/cradia3512)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cradia3512&theme=dark)
 <!--
 **CookieAndJuice/CookieAndJuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
